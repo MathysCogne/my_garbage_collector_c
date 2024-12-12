@@ -2,15 +2,9 @@
 
 Simple garbage collector in C to manage dynamic memory allocations.
 
+</br>
+
 ## How to Use
-
-### Compile my_garbage_collector.a
-
-```bash
-gcl https://github.com/MathysCogne/my_garbage_collector_c && cd my_garbage_collector_c
-
-make
-```
 
 ### Initialization
 
