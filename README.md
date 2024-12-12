@@ -1,5 +1,5 @@
 <div align="center">
-<h1>My Garbage Collector, for C</h1>
+<h1>My Garbage Collector</h1>
 <img src="banner.webp" alt="Banner Garbage Collector C" width="650" />
 
 </br>
